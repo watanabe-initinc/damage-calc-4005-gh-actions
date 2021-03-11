@@ -1,3 +1,4 @@
+![Damage calculation Test](https://github.com/watanabe-initinc/damage-calc-4005-gh-actions/workflows/Damage%20Calculation%20Test/badge.svg)
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
